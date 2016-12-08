@@ -1,0 +1,28 @@
+{
+  "name": "mygithub",
+  "version": "1.0.0",
+  "description": "Get and display gitb user data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckbot/mygithub.git"
+  },
+  "author": "Carlos Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckbot/mygithub/issues"
+  },
+  "homepage": "https://github.com/chuckbot/mygithub#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.9",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
